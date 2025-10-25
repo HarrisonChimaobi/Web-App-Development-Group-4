@@ -1,0 +1,24 @@
+/* assets/style.css */
+:root{--max-width:1000px;--accent:#2b6cb0}
+*{box-sizing:border-box;font-family:Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial}
+body{margin:0;background:#f6f8fb;color:#222}
+.container{max-width:var(--max-width);margin:28px auto;padding:20px}
+header{display:flex;justify-content:space-between;align-items:center;margin-bottom:18px}
+header h1{margin:0;font-size:1.6rem}
+nav a.btn{background:var(--accent);color:#fff;padding:8px 12px;border-radius:8px;text-decoration:none}
+.filter-form{display:flex;gap:12px;align-items:center;margin-bottom:18px}
+.filter-form label{font-size:0.9rem}
+.filter-form input{padding:6px;border-radius:6px;border:1px solid #d7dbe6}
+.filter-form button{padding:8px 12px;border-radius:6px;border:none;background:#2f855a;color:#fff}
+.link{margin-left:8px;color:#4a5568;text-decoration:none}
+.products .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:14px}
+.card{background:#fff;padding:14px;border-radius:10px;box-shadow:0 1px 4px rgba(15,23,42,0.06)}
+.card h2{margin:0 0 6px 0;font-size:1.05rem}
+.card .price{color:#2d3748;font-weight:700;margin-bottom:8px}
+.btn.small{display:inline-block;padding:6px 10px;border-radius:8px;background:var(--accent);color:#fff;text-decoration:none}
+.form label{display:block;margin-bottom:10px}
+.form input,.form textarea{width:100%;padding:8px;border:1px solid #e2e8f0;border-radius:6px}
+.form-actions{display:flex;gap:10px;align-items:center}
+.muted{color:#6b7280}
+footer{margin-top:18px;color:#718096}
+.product-detail .price{font-size:1.4rem;font-weight:700}
