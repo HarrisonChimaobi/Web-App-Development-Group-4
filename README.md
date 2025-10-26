@@ -4,7 +4,9 @@
 
 My name is Harrison Chimaobi Emmanuel with matric number 23/0804 - HarrisonChimaobi. Bsically my part in this project was focused on the backend setup and product addition features. so i did the set_up.php which ensures that the database is properly configured, while the add_product.php part which provides the interface and logic for adding new products into the system.
 
-2. Alayinde David Oluwagbotemi 23/0665 - dave-Al
+2. Alayinde David Oluwagbotemi 23/0665 - dave-Al 
+    I worked on the view_products.php, this allows you to view the products in the catalogue, and it gets the product details from the database which gets displayed on the catalogue.
+    
 3. Albert Damilola Ayomide 23/2517 - damiluv
 4.
 5. Ademuwagun Fehintoluwa David 23/1031 - David-Ade111
