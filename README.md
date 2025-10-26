@@ -6,7 +6,7 @@ My name is Harrison Chimaobi Emmanuel with matric number 23/0804 - HarrisonChima
 
 2. Alayinde David Oluwagbotemi 23/0665 - dave-Al
 3. Albert Damilola Ayomide 23/2517 - damiluv
-4. 
+4.
 5. Ademuwagun Fehintoluwa David 23/1031 - David-Ade111
   My name is Ademuwagun Fehintoluwa David with matric number 23/1031 - David-Ade111. Basically my part in this project was focused on the configuration and database features of the project. So i did the db.php which connects your PHP application to your MySQL database so that other PHP files and read and write data from the database, while the config.php part handles the database connection setup, which is essential for the app to interact with the MySQL database.
 
